@@ -1,5 +1,5 @@
 # Personal_Assistant-Sara
-This is a simple Personal Assistant that can be used for some minor tasks
+This is a simple Personal Assistant that can be used for some minor tasks (mostly focusing on Webscrapping part for now)
 
 To know the basics of WebScrapping please feel free to go throught the document given
 
